@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!README.md
+#Ajouter tous les fichiers que vous souhaitez au repo...
+
+#Surtout ne pas ignorer le theme qu'on développe
+!/wp-content/
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/dw-theme
